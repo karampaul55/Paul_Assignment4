@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ca51e57-ab68-4bc9-8dcd-031611d783fb" name="Default Changelist" comment="" />
+    <list default="true" id="9ca51e57-ab68-4bc9-8dcd-031611d783fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_words1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_words2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem2/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem2/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem2/src/DuplicateCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem2/src/DuplicateCounter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +27,45 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Zdhd3BjabvpvJlmBoMzZCMWegZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paul_Problem2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karam\Desktop\JAVA\Paul_Assignment4\Paul_Problem1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Paul_Problem1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,20 +78,68 @@
       <option name="presentableId" value="Default" />
       <updated>1585174961860</updated>
       <workItem from="1585174964636" duration="162000" />
+      <workItem from="1585175549796" duration="15338000" />
+      <workItem from="1585250650060" duration="37000" />
+      <workItem from="1585250720490" duration="2191000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1585175071992">
+    <state x="381" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585178325405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585175071992" />
+    <state x="381" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585178325405" />
+    <state x="656" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585178324224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585178324224" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1585252661238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585181246384" />
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585252661238" />
+    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1585251803777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585198474735" />
+    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585251803777" />
+    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1585251803777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585198474734" />
+    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585251803777" />
+    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1585251803777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585198474734" />
+    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585251803777" />
+    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1585251803777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585198474734" />
+    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585251803777" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585250726764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585175550638" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585250726764" />
+    <state x="-1640" y="101" width="1419" height="695" key="dock-window-1" timestamp="1585181206682">
+      <screen x="-1680" y="21" width="1680" height="1010" />
+    </state>
+    <state x="-1640" y="101" width="1419" height="695" key="dock-window-1/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585181206682" />
     <state x="342" y="140" key="new project wizard" timestamp="1585175072513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585175072513" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585251841033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585251841033" />
   </component>
 </project>
