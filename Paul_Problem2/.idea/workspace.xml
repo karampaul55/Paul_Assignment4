@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93b29d12-3b0f-4f6b-99b9-2dd51ba88544" name="Default Changelist" comment="" />
+    <list default="true" id="93b29d12-3b0f-4f6b-99b9-2dd51ba88544" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_word_counts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/Problem1_revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/out/production/Problem1_revision/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/out/production/Problem1_revision/DuplicateRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/problem3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/src/Applicaton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/src/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem1_revision/unique_words3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/out/production/Paul_Problem1/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem1/out/production/Paul_Problem1/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/out/production/Paul_Problem1/DuplicateRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem1/out/production/Paul_Problem1/DuplicateRemover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/problem1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem1/problem1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/problem12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/problem13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem1/src/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/unique_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Paul_Problem1/unique_words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/unique_words1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paul_Problem1/unique_words2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DuplicateCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateCounter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +43,50 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZdhquIod2WZJRz6nmzDRV51Tm8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paul_Problem1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Paul_Problem2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,10 +99,61 @@
       <option name="presentableId" value="Default" />
       <updated>1585175072549</updated>
       <workItem from="1585175075309" duration="48000" />
+      <workItem from="1585252664292" duration="3603000" />
+      <workItem from="1585267930912" duration="37000" />
+      <workItem from="1585267980519" duration="1592000" />
+      <workItem from="1585411712388" duration="138000" />
+      <workItem from="1585422840156" duration="9903000" />
+      <workItem from="1585507261571" duration="10272000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585255299887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585255299887" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585255297784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585255297784" />
+    <state x="529" y="114" key="CommitChangelistDialog2" timestamp="1585255224696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585255224696" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585519598192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585519598192" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1585520531993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585520531993" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585431354921" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1585520531993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585520531993" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585431354921" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1585520531992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585520531992" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585431354921" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1585520531993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585520531993" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585431354921" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585507261182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1585507261182" />
   </component>
 </project>
